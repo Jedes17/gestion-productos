@@ -1,0 +1,19 @@
+
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos generados
+dist/
+coverage/
+
+# Registros
+*.log
+npm-debug.log*
+
+# Archivos de Visual Studio Code
+.vscode/
